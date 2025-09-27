@@ -1,0 +1,37 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Area {
+  id          String       @id @default(cuid())
+  name        String       @unique
+  createdAt   DateTime     @default(now())
+  updatedAt   DateTime     @updatedAt
+  professions Profession[]
+}
+
+model Skill {
+  id          String       @id @default(cuid())
+  name        String       @unique
+  createdAt   DateTime     @default(now())
+  updatedAt   DateTime     @updatedAt
+  professions Profession[] @relation("ProfessionToSkill")
+}
+
+model Profession {
+  id          String   @id @default(cuid())
+  title       String
+  description String
+  salaryMin   Int?
+  salaryMax   Int?
+  areaId      String
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+  area        Area     @relation(fields: [areaId], references: [id])
+  skills      Skill[]  @relation("ProfessionToSkill")
+}
