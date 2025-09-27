@@ -12,6 +12,11 @@
     "prisma:reset": "prisma migrate reset",
     "seed": "prisma db seed"
   },
+
+   "prisma": {
+    "seed": "ts-node prisma/seed.ts"
+  },
+  
   "dependencies": {
     "axios": "^1.12.2",
     "next": "15.5.2",
