@@ -35,7 +35,9 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "@/*": [ "./*" ]
+      "@/*": [
+        "./*"
+      ]
     },
     "module": "CommonJS",
     "target": "ESNext",
