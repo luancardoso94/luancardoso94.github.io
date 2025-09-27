@@ -7,6 +7,9 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
+[prisma]
+seed = "ts-node --compiler-options {\\\"module\\\":\\\"CommonJS\\\"} prisma/seed.ts"
+
 model Area {
   id          String       @id @default(cuid())
   name        String       @unique
