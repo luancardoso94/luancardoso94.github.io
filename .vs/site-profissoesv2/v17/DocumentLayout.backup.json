@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Luan\\source\\repos\\site-profissoesv2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Luan\\source\\repos\\site-profissoesv2\\app\\professions\\search\\route.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\professions\\search\\route.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Luan\\source\\repos\\site-profissoesv2\\app\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Luan\\source\\repos\\site-profissoesv2\\app\\components\\SearchForm.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\components\\SearchForm.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
@@ -23,22 +31,6 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\components\\ProfessionCard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Luan\\source\\repos\\site-profissoesv2\\app\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Luan\\source\\repos\\site-profissoesv2\\app\\professions\\search\\route.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\professions\\search\\route.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Luan\\source\\repos\\site-profissoesv2\\app\\api\\skills\\route.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\api\\skills\\route.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Luan\\source\\repos\\site-profissoesv2\\app\\api\\areas\\route.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\api\\areas\\route.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Luan\\source\\repos\\site-profissoesv2\\app\\globals.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\globals.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
@@ -50,11 +42,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "route.ts",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\site-profissoesv2\\app\\professions\\search\\route.ts",
+              "RelativeDocumentMoniker": "app\\professions\\search\\route.ts",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\site-profissoesv2\\app\\professions\\search\\route.ts",
+              "RelativeToolTip": "app\\professions\\search\\route.ts",
+              "ViewState": "AgIAACYAAAAAAAAAAAAUwDIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-27T19:26:42.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ResultsList.tsx",
               "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\site-profissoesv2\\app\\components\\ResultsList.tsx",
               "RelativeDocumentMoniker": "app\\components\\ResultsList.tsx",
@@ -66,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "package.json",
               "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\site-profissoesv2\\package.json",
               "RelativeDocumentMoniker": "package.json",
@@ -78,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "tsconfig.json",
               "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\site-profissoesv2\\tsconfig.json",
               "RelativeDocumentMoniker": "tsconfig.json",
@@ -90,44 +95,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "SearchForm.tsx",
               "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\site-profissoesv2\\app\\components\\SearchForm.tsx",
               "RelativeDocumentMoniker": "app\\components\\SearchForm.tsx",
               "ToolTip": "C:\\Users\\Luan\\source\\repos\\site-profissoesv2\\app\\components\\SearchForm.tsx",
               "RelativeToolTip": "app\\components\\SearchForm.tsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-09-23T02:24:06.483Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "route.ts",
-              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\site-profissoesv2\\app\\api\\skills\\route.ts",
-              "RelativeDocumentMoniker": "app\\api\\skills\\route.ts",
-              "ToolTip": "C:\\Users\\Luan\\source\\repos\\site-profissoesv2\\app\\api\\skills\\route.ts",
-              "RelativeToolTip": "app\\api\\skills\\route.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-09-23T02:23:42.542Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "route.ts",
-              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\site-profissoesv2\\app\\api\\areas\\route.ts",
-              "RelativeDocumentMoniker": "app\\api\\areas\\route.ts",
-              "ToolTip": "C:\\Users\\Luan\\source\\repos\\site-profissoesv2\\app\\api\\areas\\route.ts",
-              "RelativeToolTip": "app\\api\\areas\\route.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-09-23T02:23:33.834Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ProfessionCard.tsx",
               "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\site-profissoesv2\\app\\components\\ProfessionCard.tsx",
               "RelativeDocumentMoniker": "app\\components\\ProfessionCard.tsx",
@@ -139,19 +120,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "page.tsx",
               "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\site-profissoesv2\\app\\page.tsx",
               "RelativeDocumentMoniker": "app\\page.tsx",
               "ToolTip": "C:\\Users\\Luan\\source\\repos\\site-profissoesv2\\app\\page.tsx",
               "RelativeToolTip": "app\\page.tsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwDYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-09-23T02:13:40.193Z"
+              "WhenOpened": "2025-09-23T02:13:40.193Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "globals.css",
               "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\site-profissoesv2\\app\\globals.css",
               "RelativeDocumentMoniker": "app\\globals.css",
@@ -160,18 +142,6 @@
               "ViewState": "AgIAAFYAAAAAAAAAAAAwwHAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-09-23T02:12:11.625Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "route.ts",
-              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\site-profissoesv2\\app\\professions\\search\\route.ts",
-              "RelativeDocumentMoniker": "app\\professions\\search\\route.ts",
-              "ToolTip": "C:\\Users\\Luan\\source\\repos\\site-profissoesv2\\app\\professions\\search\\route.ts",
-              "RelativeToolTip": "app\\professions\\search\\route.ts",
-              "ViewState": "AgIAACIAAAAAAAAAAAAmwCgAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-09-23T02:10:48.21Z"
             }
           ]
         }
